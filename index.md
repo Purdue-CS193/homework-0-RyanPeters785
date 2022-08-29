@@ -1,10 +1,18 @@
 # Ryan Peters' CS 193 Homework
 
-### My Favorite Things About CS 193
+## My Favorite Things About CS 193
 - The fact that it's taught by students
 - The funny memes for demonstrations
 - The ice breakers at the begining of class
 - Very cool and nice cordinatiors
+
+
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
